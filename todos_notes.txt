@@ -1,0 +1,41 @@
+maybe jython 64 or something new and better im open ... needs to be transistional from already learned skills from the comunnity 
+
+snap has awesome glccm power --> luts are on a wimpy low res binaery seansonal raster ... as old a fortrain ... needs updated for good atmo corrections sential imargery 
+sent need raw rast avail --> jpeg compression ? its good but not good for raster DN em value retention 
+
+looking at BlenderGIS --> lots of potental on the c++ fronts QGIS -ish ... blender is python frendly 3d ( blender engine ... where did ya go ? ) --> need that for my GAMA PLATFORM - ish agents ... 
+unreal or unity --> too far of a jump --> im a human ... need helpers ... 
+
+java fx node editing ? yes please 
+
+airflow enterprise intigration ? yes please ( sorry fme ) airflow gis  DAGS  super CRON
+
+maybe nifi for burst near realtime data sets  --> g5 g6 wifi loc data ... remotes for ai 
+
+i know nigx i still like apache server 
+
+get jvm on the isa level ... closer to the read write lines... awesome pid haddlers ... LLVM rising ( dont pay for isa costs ) --> cents on every chip 
+less garbage 
+
+stay OpenJDK ... larry page was a sabo on open source ... ( fragmentation ... decouple from oracle )
+
+postgress hadels gis and just general reaster data sets verry well 
+
+db drivers
+postgis > sde
+
+( open source = less taxes and lower rent ) ... more applied ... make money trunning the wrench vs getting a penny for every wrench turn of the few 
+
+Notes : "There isn't much information about how much Florida spends on Esri licensing each year, but here's some information about Esri and its licensing costs. 
+Esri licensing costs 
+
+    ArcGIS GIS Professional Advanced costs $3,800 per year on premise 
+
+Esri
+
+    Esri is a private company that creates Geographic Information Systems (GIS) software 
+
+Esri's products are used by over 300,000 organizations, including most national governments and 90% of Fortune 100 companies 
+Esri's ArcGIS software is used to create, manage, analyze, map, and share data 
+"   ---> your taxes 
+
